@@ -1,1 +1,2 @@
-This is text3.txt file, I am trying to add this file from local to global repository. file changed.
+This is text3.txt file, I am trying to add this file from local to global repository. 
+Now I am checking it is updated or not in the Github.
