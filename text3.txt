@@ -1,2 +1,4 @@
 This is text3.txt file, I am trying to add this file from local to global repository. 
 Now I am checking it is updated or not in the Github.
+I am updating some message directly in the Github reposiroy and I am checking it is updated automatically in local Repository or not.
+If it is not updated automatically, I will pull it in the VS code terminal.
